@@ -1,0 +1,12 @@
+{
+    "name": "ytulip/interact-downloads",
+    "minimum-stability": "stable",
+    "version": "1.0.1",
+    "authors": [
+        {
+            "name": "ytulip",
+            "email": "ytulip@gmail.com"
+        }
+    ],
+    "require": {}
+}
