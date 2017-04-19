@@ -1,7 +1,6 @@
 {
     "name": "ytulip/interact-downloads",
-    "minimum-stability": "stable",
-    "version": "1.0.1",
+    "minimum-stability": "master",
     "authors": [
         {
             "name": "ytulip",
